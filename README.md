@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm usually working on building 🤖 Data Analytics & Machine Learning projects.
 
-- 🚀 My past experience includes interning at a 📈 Stock Exchange & at an 🏢 Insurance Company.
+- 🚀 My past experience includes interning at a 📈 Stock Exchange Group & at an 🏢 Insurance Company.
 
 - 📫 If you have any questions, collaboration opportunities or just want to have a chat, feel free to contact me at **akul0605@gmail.com**
 
