@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akul Malhotra</h1>
-<h3 align="center">A Data Analytics and Machine Learning Enthusiast</h3>
+<h1 align="center">Hey everyone, I'm Akul👋</h1>
+<h3 align="center">A Data Analytics and Machine Learning Enthusiast 👨‍💻 </h3>
 
 - 🌱 I’m currently studying **Data Science at the City University of Hong Kong**
+
+- 👨‍💻 Im skilled at Data Structures & Algos, Data Analytics, Machine Learning, Deep learning, Time Series Analysis, Network Analysis, NLP and Data Visualizations.**
 
 - 📫 How to reach me **akul0605@gmail.com**
 
