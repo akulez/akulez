@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently studying **Data Science at the City University of Hong Kong**
 
-- 👨‍💻 Im skilled at Data Structures & Algos, Data Analytics, Machine Learning, Deep learning, Time Series Analysis, Network Analysis, NLP and Data Visualizations.
+- 👨‍💻 I'm usually working on building 🤖 Machine Learning & AI projects.
+
+- 🚀 My past experience includes interning at a 📈 Stock Exchange & at an 🏢 Insurance Company.
 
 - 📫 How to reach me **akul0605@gmail.com**
 
