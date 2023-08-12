@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently studying **Data Science at the City University of Hong Kong**
 
+- 💡 I particularly enjoy exploring the intersection of data science and finance. 
+
 - 👨‍💻 I'm usually working on building 🤖 Machine Learning & AI projects.
 
 - 🚀 My past experience includes interning at a 📈 Stock Exchange & at an 🏢 Insurance Company.
 
-- 📫 How to reach me **akul0605@gmail.com**
+- 📫 If you have any questions, collaboration opportunities or just want to have a chat, feel free to contact me at **akul0605@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
