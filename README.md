@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Data Science at the City University of Hong Kong**
 
-- 👨‍💻 Im skilled at Data Structures & Algos, Data Analytics, Machine Learning, Deep learning, Time Series Analysis, Network Analysis, NLP and Data Visualizations.**
+- 👨‍💻 Im skilled at Data Structures & Algos, Data Analytics, Machine Learning, Deep learning, Time Series Analysis, Network Analysis, NLP and Data Visualizations.
 
 - 📫 How to reach me **akul0605@gmail.com**
 
