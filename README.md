@@ -5,7 +5,7 @@
 
 - 💡 I particularly enjoy exploring the intersection of data science and finance. 
 
-- 👨‍💻 I'm usually working on building 🤖 Machine Learning & AI projects.
+- 👨‍💻 I'm usually working on building 🤖 Data Analytics & Machine Learning projects.
 
 - 🚀 My past experience includes interning at a 📈 Stock Exchange & at an 🏢 Insurance Company.
 
