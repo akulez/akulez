@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone, I'm Akul👋</h1>
 <h3 align="center">A Data Analytics and Machine Learning Enthusiast 👨‍💻 </h3>
 
-- 🌱 I’m currently studying **Data Science at the City University of Hong Kong**
+- 🌱 I’m currently majoring in **Data Science with a minor in Finance at the City University of Hong Kong**
 
 - 💡 I particularly enjoy exploring the intersection of data science and finance. 
 
